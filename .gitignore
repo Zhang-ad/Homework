@@ -1,0 +1,19 @@
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 办公软件临时文件与备份
+~$*
+*.tmp
+*.bak
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 常见构建产物
+node_modules/
+__pycache__/
+*.pyc
